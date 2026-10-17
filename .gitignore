@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+coverage/
+.hardhat-artifacts/
+.hardhat-cache/
+cache/
+artifacts/
+typechain-types/
+*.tsbuildinfo
+.DS_Store
+.replit-artifact/
